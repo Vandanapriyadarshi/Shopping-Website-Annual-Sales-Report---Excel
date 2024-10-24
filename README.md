@@ -1,7 +1,7 @@
-Sales Annual Report of Shopping Website
+**Sales Annual Report of Shopping Website**
 This repository contains an analysis of the annual sales data for a shopping website. The report provides detailed insights into various aspects of sales performance, including trends, customer behavior, product performance, and revenue generation. The analysis is conducted using Excel, leveraging data cleaning, pivot tables, slicers, charts, and key performance metrics to identify business opportunities and areas for improvement.
 
-Key Features
+**Key Features**
 Men vs Women Comparison: Breakdown of sales and order quantities by gender.
 Order Status Analysis: Overview of different order statuses, including delivered, returned, canceled, and refunded orders.
 Top 5 States: Analysis of the top-performing states based on the number of orders.
@@ -11,7 +11,7 @@ Monthly Sales Performance for 2022: Insights into the monthly sales trends for t
 Product-wise Sales Breakdown: Analysis of sales performance by product categories.
 Customer Demographics & Purchase Patterns: Study of customer buying behavior and demographics.
 Revenue Analysis with Visualizations: Graphical representation of revenue trends, product performance, and platform-wise sales.
-How to Use
+**How to Use**
 Download the Excel file from the repository.
 Open the file in Microsoft Excel or any compatible spreadsheet software.
 Use the provided pivot tables, slicers, and charts to explore the sales data.
